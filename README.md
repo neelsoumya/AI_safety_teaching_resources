@@ -8,6 +8,7 @@ AI safety teaching resources
 
 `generative_AI_course_latex_v2.pdf`: Slides on AI safety, AI ethics and Philosophy 101 (related to AI)
 
+https://github.com/neelsoumya/AI_safety_teaching_resources/blob/main/generative_AI_course_latex_v2.pdf
 
 ## Readings
 
